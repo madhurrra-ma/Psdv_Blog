@@ -87,16 +87,27 @@ print('Sentinel-2 NDVI:', sentinel_mean_ndvi.getInfo())
 **Terminal output of NDVI calculation**
 ![code2](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/code2_.jpg)  
 
+**Observation from Landsat 8 Satellite**  
+![map1](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/map1.jpg)  
+
+![map2](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/map2.jpg)
+
+**Output Terminal**
+![terminal](https://github.com/madhurrra-ma/Psdv_Blog/blob/main/terminal.jpg)
+
+
+
 ## Use Cases
 - **Tracking Environmental Changes** – Monitor deforestation, assess water quality, and analyze shifts in land cover to understand ecosystem changes over time.
 - **Disaster Management and Response** – Evaluate the impact of floods, track the spread of wildfires, and monitor drought conditions to support early warnings and recovery efforts.
 - **Urban Growth and Planning** – Study how cities expand, identify areas affected by heat islands, and analyze infrastructure development for better urban planning.
 
 ## Conclusion
-The Google Earth Engine Python API simplifies large-scale geospatial data access, processing, and analysis. It’s an essential tool for environmental scientists, urban planners, and researchers exploring Earth’s changing landscape.
+The Google Earth Engine Python API makes accessing, processing, and analyzing large-scale geospatial data easier. It is a valuable tool for environmental scientists, urban planners, and researchers studying changes in Earth’s landscape.
 
 ## References & Further Reading
-- Google Earth Engine Documentation  
-- Earth Engine Python API Guide  
-- Intro to Python API Notebook  
-- Geemap Library  
+- [Google Earth Engine Documentation](https://developers.google.com/earth-engine/documentation)  
+- [Earth Engine Python API Guide](https://developers.google.com/earth-engine/python_install)  
+- [Intro to Python API Notebook](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/Introduction_to_Earth_Engine.ipynb)  
+- [Geemap Library](https://geemap.org/)
+
