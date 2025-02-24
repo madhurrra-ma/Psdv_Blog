@@ -107,7 +107,7 @@ print('Sentinel-2 NDVI:', sentinel_mean_ndvi.getInfo())
 The Google Earth Engine Python API makes accessing, processing, and analyzing large-scale geospatial data easier. It is a valuable tool for environmental scientists, urban planners, and researchers studying changes in Earth’s landscape.
 
 ## References & Further Reading
-- [Google Earth Engine Documentation](https://developers.google.com/earth-engine/documentation)  
+- [Google Earth Engine Documentation](https://developers.google.com/earth-engine)  
 - [Earth Engine Python API Guide](https://developers.google.com/earth-engine/python_install)  
 - [Intro to Python API Notebook](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/Introduction_to_Earth_Engine.ipynb)  
 - [Geemap Library](https://geemap.org/)
