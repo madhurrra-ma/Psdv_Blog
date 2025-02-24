@@ -109,6 +109,6 @@ The Google Earth Engine Python API makes accessing, processing, and analyzing la
 ## References & Further Reading
 - [Google Earth Engine Documentation](https://developers.google.com/earth-engine)  
 - [Earth Engine Python API Guide](https://developers.google.com/earth-engine/python_install)  
-- [Intro to Python API Notebook](https://colab.research.google.com/github/google/earthengine-api/blob/master/python/examples/ipynb/Introduction_to_Earth_Engine.ipynb)  
+- [Intro to Python API Notebook](https://www.geeksforgeeks.org/python-api-tutorial-getting-started-with-apis/)  
 - [Geemap Library](https://geemap.org/)
 
